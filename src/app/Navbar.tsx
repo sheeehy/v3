@@ -1,7 +1,7 @@
 import { HiMenuAlt3 } from "react-icons/hi";
 import { FiInstagram, FiLinkedin, FiGithub } from "react-icons/fi";
 import Link from "next/link";
-import Heading from "./heading";
+import Heading from "./Heading";
 import { Sheet, SheetContent, SheetClose, SheetHeader, SheetTitle, SheetTrigger } from "../components/ui/sheet";
 
 const Navbar = () => {
