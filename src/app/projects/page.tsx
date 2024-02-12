@@ -9,7 +9,7 @@ export default function Home() {
       <Navbar />
       <div className="flex flex-col items-start justify-between py-20 px-32 pt-40  gap-10 font-black text-5xl text-left text-zinc-400">
         <h2 className=" max-w-4xl leading-[1.3]">
-          As a <span className="text-white">student</span>, I've built and deployed <span className="text-white">6 projects</span> with over{" "}
+          As a <span className="text-white">student</span>, Ive built and deployed <span className="text-white">6 projects</span> with over{" "}
           <span className="text-white">7,500 users</span>.{" "}
         </h2>
       </div>
