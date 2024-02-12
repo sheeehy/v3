@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  scrollbar-width: none;
+}
+
+/* For Microsoft Edge and other WebKit-based browsers */
+* {
+  -ms-overflow-style: none; /* Hide scrollbar for IE and Edge */
+}
