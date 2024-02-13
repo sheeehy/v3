@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import { FiGithub, FiLink } from "react-icons/fi";
 import Card from "../card";
